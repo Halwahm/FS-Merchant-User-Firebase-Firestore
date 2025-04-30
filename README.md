@@ -1,4 +1,4 @@
-# FutureAI Interview Task: Full Stack Software Developer
+# Interview Task: Full Stack Software Developer
 
 ## Objective
 
